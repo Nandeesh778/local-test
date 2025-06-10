@@ -1,1 +1,24 @@
 
+{
+  "assertionMethod": [
+    "did:web:Nandeesh778.github.io:local-test:certify_did#key-0"
+  ],
+  "service": [],
+  "id": "did:web:Nandeesh778.github.io:local-test:certify_did",
+  "verificationMethod": [
+    {
+      "publicKeyMultibase": "z6MkeeA9ha2Lfwp4iBsWXYErihvWFJdG1hbQ9Zd88922tNoh",
+      "controller": "did:web:Nandeesh778.github.io:local-test:certify_did",
+      "id": "did:web:Nandeesh778.github.io:local-test:certify_did#key-0",
+      "type": "Ed25519VerificationKey2020",
+      "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
+    }
+  ],
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "alsoKnownAs": [],
+  "authentication": [
+    "did:web:Nandeesh778.github.io:local-test:certify_did#key-0"
+  ]
+}
