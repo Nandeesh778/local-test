@@ -1,4 +1,3 @@
-
 {
   "assertionMethod": [
     "did:web:Nandeesh778.github.io:local-test:certify_did#key-0"
@@ -7,7 +6,7 @@
   "id": "did:web:Nandeesh778.github.io:local-test:certify_did",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkeeA9ha2Lfwp4iBsWXYErihvWFJdG1hbQ9Zd88922tNoh",
+      "publicKeyMultibase": "z6MkvsBrgARuXrmd7SFoxdE3buscCLytC5krY9mVck3X8QPN",
       "controller": "did:web:Nandeesh778.github.io:local-test:certify_did",
       "id": "did:web:Nandeesh778.github.io:local-test:certify_did#key-0",
       "type": "Ed25519VerificationKey2020",
